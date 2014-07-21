@@ -1,0 +1,20 @@
+{
+  "name": "me-bot",
+  "version": "0.0.1",
+  "description": "Bot Version of Yourself",
+  "author": {
+    "name": "Ben Kaiser",
+    "email": "benjaminjkaiser@gmail.com",
+    "url":  "https://github.com/benkaiser"
+  },
+  "homepage": "http://www.kaiserapps.com",
+  "dependencies": {
+    "async": "*",
+    "nedb": "*",
+    "ya-csv": "*"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "private": true,
+  "main": "app.js"
+}
